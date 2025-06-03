@@ -15,7 +15,7 @@
 
   <section id="about">
     <h2>About Me</h2>
-    <p>I analyze sports data and I trade online. Based in Nigeria.</p>
+    <p>I am a software developer.I also analyze sports data on the side and I trade online. Based in Nigeria.</p>
   </section>
 
   <section id="projects">
